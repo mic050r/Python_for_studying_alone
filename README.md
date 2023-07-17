@@ -10,3 +10,8 @@
 | 6주차 |  |  |  |
 | 7주차 |  |  |  |
 
+## 필기
+- [Chapter01](https://rei050r.tistory.com/142) 
+- [Chapter02](https://github.com/mic050r/Python_for_studying_alone/blob/main/Chapter02/%EB%A7%88%EB%AC%B4%EB%A6%AC%20%EC%A0%95%EB%A6%AC.md)
+- [Chapter03](https://github.com/mic050r/Python_for_studying_alone/blob/main/Chapter03/%EB%A7%88%EB%AC%B4%EB%A6%AC%20%EC%A0%95%EB%A6%AC.md)
+- [Chapter04](https://github.com/mic050r/Python_for_studying_alone/blob/main/Chapter04/%EB%A7%88%EB%AC%B4%EB%A6%AC%20%EC%A0%95%EB%A6%AC.md)
